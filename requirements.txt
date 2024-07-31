@@ -1,6 +1,5 @@
 numba
 numpy < 2.0
-torch
 tqdm
 more-itertools
 tiktoken
